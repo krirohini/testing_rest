@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1444" started-at="2017-02-10T06:50:06Z" finished-at="2017-02-10T06:50:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1444" started-at="2017-02-10T06:50:06Z" finished-at="2017-02-10T06:50:08Z">
+      <class name="com.apex.service.customer.CustomerServiceTestNG">
+        <test-method status="PASS" signature="getCustomerSuccess()[pri:0, instance:com.apex.service.customer.CustomerServiceTestNG@2ef5e5e3]" name="getCustomerSuccess" duration-ms="1427" started-at="2017-02-09T22:50:06Z" finished-at="2017-02-09T22:50:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCustomerSuccess -->
+      </class> <!-- com.apex.service.customer.CustomerServiceTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
